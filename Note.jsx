@@ -5,7 +5,7 @@ function Note() {
     <div className="note">
       <h1>Web Dev with Javascript and React.js</h1>
       <p>
-        Hii This is Haresh Muluk Amazing Bootcamp is Taken Everything will be
+        Hii This is Aadesh Patil Amazing Bootcamp is Taken Everything will be
         understand Thank You!
       </p>
     </div>
